@@ -6,7 +6,7 @@
 <p><img align="right" src="https://github.com/Momen-Odeh/Momen-Odeh/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I am currently a student at An-Najah National University and training with Gaza Sky Geeks
+- 🌱 I am a Computer Engineer graduated from An-Najah National University
 
 - 📫 How to reach me **momen.odeh74@gmail.com**
 
